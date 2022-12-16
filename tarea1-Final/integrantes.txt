@@ -1,0 +1,3 @@
+Cristobal Pino 202104597-K   	Lectura de archivos y comentarios
+Agustin Concha 202173648-4	Consultas y salida del programa (int main())
+Diego Ramirez 202073534-4	Consultas y salida del programa (int main())
